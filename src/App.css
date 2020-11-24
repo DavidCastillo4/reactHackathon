@@ -9,7 +9,7 @@ li {
 }
 
 .show {
-  display: inline-block;
+  display: block;
 
    /* background-color: #61dafb;  */
 };
